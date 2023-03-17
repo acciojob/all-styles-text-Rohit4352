@@ -2,11 +2,11 @@
 /* Your CSS Code here. */
 div{
 	width:200px;
-	background-color: purple;
+	background-color: rgb(128, 0, 128);
 	padding: 10px;
-	border-inline-start-width: 5px;
-	border-inline-start-style: solid;
-	border-inline-start-color: green;
+	border-left-width: 5px;
+	border-left-style: solid;
+	border-left-color: green;
 }
 heading{
 	font-size: 20px;
